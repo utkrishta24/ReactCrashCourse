@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactCrashCourse/static/css/main.6a9a1e50.css",
+    "main.js": "/ReactCrashCourse/static/js/main.f58d11d7.js",
+    "static/js/787.d35fe327.chunk.js": "/ReactCrashCourse/static/js/787.d35fe327.chunk.js",
+    "static/media/LCO-logo-white.png": "/ReactCrashCourse/static/media/LCO-logo-white.b9eb8cebbf07499ea63e.png",
+    "index.html": "/ReactCrashCourse/index.html",
+    "main.6a9a1e50.css.map": "/ReactCrashCourse/static/css/main.6a9a1e50.css.map",
+    "main.f58d11d7.js.map": "/ReactCrashCourse/static/js/main.f58d11d7.js.map",
+    "787.d35fe327.chunk.js.map": "/ReactCrashCourse/static/js/787.d35fe327.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9a1e50.css",
+    "static/js/main.f58d11d7.js"
+  ]
+}
